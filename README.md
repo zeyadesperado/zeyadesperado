@@ -9,7 +9,7 @@
 
 - I finished IOT intern at **EME innovation hub**
 
-- 💬 Ask me about **Django**
+- 💬 Ask me about **Marketing**
 
 - 📫 How to reach me **zeyadhashem188@gmail.com**
 
