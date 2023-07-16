@@ -7,7 +7,12 @@
 
 - 🔭 I finished Backend developer intern at **Petra inc**
 
+- I’m currently Head of Marketing at **ACM AUN chapter**
+
 - I finished IOT intern at **EME innovation hub**
+- I did an **IOT based patient health monitoring** with **EME**
+
+- I did an smart doorlock system using **mvc.net C#**
 
 - 💬 Ask me about **Marketing**
 
