@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **zeyadhashem188@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1JvF9TWPqmU6xdMYyl2CsooF4xRFyhzCK/view?usp=sharing"> Resume link </a>
+- 📄 Know about my experiences from my <a href="https://drive.google.com/file/d/1JvF9TWPqmU6xdMYyl2CsooF4xRFyhzCK/view?usp=sharing"> <strong>Resume</strong>  </a>
 
 - ⚡ Fun fact **I love the office show !**
 
