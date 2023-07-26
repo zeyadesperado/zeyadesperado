@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences from my <a href="https://drive.google.com/file/d/1JvF9TWPqmU6xdMYyl2CsooF4xRFyhzCK/view?usp=sharing"> <strong>Resume</strong>  </a>
 
-- ⚡ Fun fact **I love the office show !**
+- ⚡ Fun fact **They call me The Desperado !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
