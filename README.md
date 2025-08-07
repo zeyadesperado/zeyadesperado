@@ -12,6 +12,7 @@
 🔧 I'm a backend-focused software engineer passionate about designing scalable systems and solving real-world problems through clean code and thoughtful architecture.
 
 ### 👨‍💻 Current Roles
+- Senior Backend Developer @ SIPRC
 - Software Engineer @ DigiTee.io – Building backend APIs for an NFT fashion marketplace
 - Freelance Backend Developer – Delivering high-quality Django-based solutions
 - 📍 Currently serving in the military until **January 3, 2026**
