@@ -14,8 +14,8 @@
 ### 👨‍💻 Current Roles
 - Senior Backend Developer @ SIPRC
 - Software Engineer @ DigiTee.io – Building backend APIs for an NFT fashion marketplace
-- Freelance Backend Developer – Delivering high-quality Django-based solutions
-- 📍 Currently serving in the military until **January 3, 2026**
+- Freelance Backend Developer – Delivering high-quality software solutions
+- 📍 Currently serving in the military until **february 28, 2026**
 
 ### 💡 What I’m Into
 - Scalable backend architectures (Django, DRF, PostgreSQL)
