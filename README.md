@@ -1,36 +1,90 @@
 <p align="center">
-  <img src="https://i.imgur.com/QsKgEw9.png" alt="Zeyad Mohamed Hashem - Software Engineer | Backend Developer">
+  <img src="https://i.imgur.com/QsKgEw9.png" alt="Zeyad Mohamed Hashem - Backend Engineer">
 </p>
 
-<h1 align="center">Hi 👋, I'm Zeyad Mohamed Hashem (aka ZeyaDesperado)</h1>
-<h3 align="center">Software Engineer • Backend Developer</h3>
+<h1 align="center">Hi 👋, I'm Zeyad Mohamed Hashem</h1>
+<h3 align="center">Backend Engineer • Python • FastAPI • Django</h3>
 
-<p align="center"><em>"Write clean code. Think in systems. Design for humans."</em></p>
+<p align="center">
+  Building reliable backend systems, async workflows, and AI-powered applications.
+</p>
 
 ---
 
-🔧 I'm a backend-focused software engineer passionate about designing scalable systems and solving real-world problems through clean code and thoughtful architecture.
+## 🚀 About Me
 
-### 👨‍💻 Current Roles
-- Senior Backend Developer @ SIPRC
-- Software Engineer @ DigiTee.io – Building backend APIs for an NFT fashion marketplace
-- Freelance Backend Developer – Delivering high-quality software solutions
-- 📍 Currently serving in the military until **february 28, 2026**
+Backend Engineer with experience building production APIs, multi-tenant SaaS platforms, async processing systems, and AI-integrated backend workflows using FastAPI, Django, PostgreSQL, Redis, and AWS.
 
-### 💡 What I’m Into
-- Scalable backend architectures (Django, DRF, PostgreSQL)
-- Secure authentication & API design
-- RESTful services, caching, performance optimization
-- Production-grade DevOps & deployment (Docker, uWSGI, Nginx)
+Focused on:
+- scalable backend architecture
+- clean system design
+- performance optimization
+- reliable async processing
+- production-ready APIs
 
-### 🤝 Volunteering
+Currently working on backend systems involving:
+- LLM-integrated workflows
+- agentic AI pipelines
+- async task orchestration
+- cloud-based application infrastructure
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- Python
+- FastAPI
+- Django
+- Django REST Framework
+- Celery
+- Redis
+
+### Databases
+- PostgreSQL
+- MongoDB
+
+### Cloud & Infrastructure
+- Docker
+- AWS (EC2, S3, API Gateway)
+- CI/CD pipelines
+- Nginx
+- Linux
+
+### API & Architecture
+- REST APIs
+- JWT Authentication
+- OpenAPI / Swagger
+- Multi-tenant SaaS systems
+- Async processing
+- Background job orchestration
+
+---
+
+## 📌 Current Focus
+
+- Designing reliable AI/backend workflows
+- Improving system performance & scalability
+- Learning distributed systems patterns
+- Deepening cloud & infrastructure knowledge
+- Building stronger public engineering projects
+
+---
+
+## 🤝 Community
+
 - Tech Team @ GDG Assiut
-- Marketing Consultant @ ACM Assiut Chapter
-
-### 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/zeyad-mohamed-hashem)
-- 📬 zeyadhashem188@gmail.com
+- Former Marketing Consultant @ ACM Assiut Chapter
 
 ---
 
-⚡ _Fun fact: They call me "The Desperado" because I always debug like I'm in a showdown._
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [<Zeyad_hashem>](https://www.linkedin.com/in/zeyad-mohamed-hashem)
+- 📧 zeyadhashem188@gmail.com
+
+---
+
+<p align="center">
+  <i>"Write clean code. Build reliable systems."</i>
+</p>
